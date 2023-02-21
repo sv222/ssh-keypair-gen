@@ -34,7 +34,7 @@ To install and use the SSH keygen utility, follow these steps:
 You can choose not to pass values, then the names will be given by default and the files will be saved in the current folder.
 
 ```sh
-    ./ssh-keypair-gen
+./ssh-keypair-gen
 ```
 
 ### Docker installation
